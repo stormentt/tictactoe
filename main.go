@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
-import "tictactoe/driver"
+import (
+	"fmt"
+	"github.com/stormentt/tictactoe/driver"
+)
 
 func main() {
 	me := uint(257)
